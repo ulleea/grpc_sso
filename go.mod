@@ -3,7 +3,7 @@ module grpc-service-ref
 go 1.21
 
 require (
-	github.com/JustSkiv/protos v0.0.14
+	github.com/ulleea/protos v0.0.1
 	github.com/brianvoe/gofakeit/v6 v6.23.2
 	github.com/fatih/color v1.15.0
 	github.com/golang-jwt/jwt/v5 v5.0.0

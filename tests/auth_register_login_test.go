@@ -6,11 +6,11 @@ import (
 
 	"grpc-service-ref/tests/suite"
 
-	ssov1 "github.com/JustSkiv/protos/gen/go/sso"
 	"github.com/brianvoe/gofakeit/v6"
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	ssov1 "github.com/ulleea/protos/gen/go/sso"
 )
 
 const (
